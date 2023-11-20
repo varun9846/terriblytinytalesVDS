@@ -12,7 +12,7 @@ Importing Specific Icons:
 
 import { faCertificate, faEye, faHeart, faStar, faThumbsUp } from '@fortawesome/free-solid-svg-icons'
 This line imports specific FontAwesome icons (like certificate, eye, heart, star, thumbs-up) as React components from the @fortawesome/free-solid-svg-icons package. These icons are used later within the React component.
-
+ 
 =============================================================================================================
 
 components are: App.js 
