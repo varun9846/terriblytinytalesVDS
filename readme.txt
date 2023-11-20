@@ -24,3 +24,9 @@ logo.svg
 reportWebVitals.js
 setupTests.js
 ttt.svg
+==========================================================================================
+Netlify Host link
+
+terriblytinytalesvds.netlify.app
+
+https://terriblytinytalesvds.netlify.app/
